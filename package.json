@@ -11,5 +11,18 @@
     "next": "9.5.5",
     "react": "16.14.0",
     "react-dom": "16.14.0"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerclancy/fullstack-restaurant.git"
+  },
+  "author": "Tyler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tylerclancy/fullstack-restaurant/issues"
+  },
+  "homepage": "https://github.com/tylerclancy/fullstack-restaurant#readme"
 }
